@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "679388121448",
+    "project_id": "code-assist-pr",
+    "storage_bucket": "code-assist-pr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679388121448:android:428e7e3f48e5b17e372edd",
+        "android_client_info": {
+          "package_name": "com.u100daysofcode.code_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679388121448-cra53ttvua8cfua3mp88qf91lqgm9llh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsnYuCpTgf2a64kCqyhw7lneEPCQ4pfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679388121448-cra53ttvua8cfua3mp88qf91lqgm9llh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679388121448-c6cli8s3nllrt28h383r867n2d1i5n47.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.100daysofcode.codeAssist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
