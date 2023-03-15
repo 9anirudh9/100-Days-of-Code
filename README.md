@@ -1,16 +1,3 @@
 # code_assist
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+100 Days of code allows users to develop a coding habit in them. Every day the user must solve a minimum of one problem for the next 100 days to gain good problem-solving skills. The user gets a notification about different contests that are scheduled so that the user can participate. For each day’s participation one streak is generated to ensure that the user builds the streak for the milestone.100 Days of code allows users to develop a coding habit in them. Every day the user must solve a minimum of one problem for the next 100 days to gain good problem-solving skills. The user gets a notification about different contests that are scheduled so that the user can participate.
